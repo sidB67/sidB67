@@ -46,7 +46,7 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=sidB67&theme=tokyonight&_icons=true)  
 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sidB67)  
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sidB67&theme=tokyonight)](https://git.io/streak-stats)
 
 
 <br>
