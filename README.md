@@ -41,20 +41,18 @@
 
 ## Some Stats:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidB67)](https://github.com/anuraghazra/github-readme-stats)
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sidB67) -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sidB67&show_icons=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=sidB67&theme=tokyonight&_icons=true)  
 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=sidB67)  
 
 
-
-
 <br>
 <br>
 <br>
- <img width="1500" height="auto" align="center" alt="Samikmalhotra's github stats" 
+ <img width="1500" height="auto" align="center" alt="Sidharth's github stats" 
          src="https://github-profile-trophy.vercel.app/?username=sidB67&row=1&column=7&theme=darkhub&margin-w=15e" />
 <p align="center">
  <br>
