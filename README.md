@@ -1,5 +1,5 @@
 <h1 align="center">Hi there,my name is Sidharth Bahl<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
-<h2 align="center">I am a CSE undergrad from India!</h2><img src="https://komarev.com/ghpvc/?username=Samikmalhotra" />
+<h2 align="center">I am a CSE undergrad from India!</h2><img src="https://komarev.com/ghpvc/?username=sidB67" />
 <br>
   <img align="left" alt="GIF" src="./Media/animation4.gif" width="500"> 
 
