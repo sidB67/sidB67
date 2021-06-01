@@ -54,8 +54,11 @@
 <br>
 <br>
 <br>
-
+ <img width="1500" height="auto" align="center" alt="Samikmalhotra's github stats" 
+         src="https://github-profile-trophy.vercel.app/?username=Samikmalhotra&row=1&column=7&theme=darkhub&margin-w=15e" />
 <p align="center">
+ <br>
+  <br>
     :arrow_down: Scroll down to see my top repositories :arrow_down:
     <br>
     <b>
