@@ -55,7 +55,7 @@
 <br>
 <br>
  <img width="1500" height="auto" align="center" alt="Samikmalhotra's github stats" 
-         src="https://github-profile-trophy.vercel.app/?username=Samikmalhotra&row=1&column=7&theme=darkhub&margin-w=15e" />
+         src="https://github-profile-trophy.vercel.app/?username=sidB67&row=1&column=7&theme=darkhub&margin-w=15e" />
 <p align="center">
  <br>
   <br>
