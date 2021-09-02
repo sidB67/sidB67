@@ -31,7 +31,7 @@
 <br>
 <h2>About Me:</h2>
 
-- 🔭 I’m currently working on <a href="https://github.com/sidB67/shop_app">Covaccine 🤝.</a> 
+- 🔭 I’m currently working on <a href="https://github.com/sidB67/CoVaccine">Covaccine 🤝.</a> 
 - 🌱 I’m currently learning Flutter 
 - 👯 I’m looking to collaborate on App Development 
 
